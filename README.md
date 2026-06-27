@@ -1,4 +1,4 @@
-# Pipeline Bioinformatika: Sistem Skrining Termal dan Komposisi Nukleotida Otomatis pada Bakteri Kontaminan Susu Susu Sapi Pasteurisasi Menggunakan Biopython
+# Pipeline Bioinformatika: Sistem Skrining Termal dan Komposisi Nukleotida Otomatis pada Bakteri Kontaminan Susu Sapi Pasteurisasi Menggunakan Biopython
 
 Projek ini merupakan tugas **Mini Project** untuk mata kuliah **Struktur Data Bioinformatika (BIF1223)**. Program ini dirancang sebagai prototipe alat skrining cepat berbasis komputasi untuk mengidentifikasi bakteri patogen kontaminan pada susu sapi pasteurisasi untuk mendukung penjaminan keamanan pangan (*food safety*).
 
